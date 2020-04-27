@@ -1,5 +1,3 @@
-# Bi623 (Summer 2019) Homework 2
-# (Due Thursday 08/22/2019 at midnight)
 # Working with R
 
 Directions: Perform the tasks below using the R Studio Interface. Address the following questions by writing R code. Type any “verbal” answers in human-readable format, as commented lines within your R script. Submit your .R script file, and submit any plots (labeled by question number) as a single, concatenated .pdf file. Make sure your R code is readable and commented well. Each numbered section is worth 5 points, for a total of 75 points.
